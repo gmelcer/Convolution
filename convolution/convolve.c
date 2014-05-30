@@ -1,5 +1,5 @@
 //
-// File:       transpose.c
+// File:       convolve.c
 //
 // Abstract:   
 //             
