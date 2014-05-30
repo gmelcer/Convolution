@@ -1,0 +1,14 @@
+
+*.plist
+
+convolution/transpose.xcodeproj/xcuserdata/gmelcer.xcuserdatad/xcschemes/transpose.xcscheme
+
+convolution/transpose.xcodeproj/project.xcworkspace/xcuserdata/gmelcer.xcuserdatad/UserInterfaceState.xcuserstate
+
+convolution/transpose.xcodeproj/project.pbxproj
+
+convolution/transpose.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+
+convolution/transpose.xcodeproj/project.xcworkspace/xcshareddata/transpose.xccheckout
+
+convolution/convolve
